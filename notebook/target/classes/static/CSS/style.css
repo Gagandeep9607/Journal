@@ -1,0 +1,137 @@
+@charset "ISO-8859-1";
+#dashbody
+{
+	background-color: #8080ff;
+}
+#dash1
+{
+	margin : 0px auto;
+	background-color: grey;
+}
+#dash2
+{
+	margin: 0px auto;
+	width: 70%;
+}
+#dash3
+{
+	color: pink;
+}
+#dash4
+{
+	font-family : serif;
+	width : 90%;
+	text-align: left;
+}
+.font1
+{
+	font-family: fantasy;
+}
+.divcontent
+{
+	display : flex;
+	width : 100%;
+}
+.divhead
+{
+	width : 20%;
+}
+.divhead2
+{
+	margin : 0px auto;
+	font-family: cursive;
+	width : 80%;
+}
+#dash5
+{
+	font : pink;
+}
+#dash6
+{
+	margin : 0px auto;
+	width : 30%;
+}
+#dash7
+{
+	border : #3c3c3c;
+}
+#divcontact
+{
+	display : flex;
+}
+.contacthead
+{
+	width : 70%;
+	font-family: cursive;
+}
+.contacthead > a
+{
+	color : pink;
+}
+#contactedit
+{
+	width : 35%;
+}
+#infobody
+{
+	background-color : #8080ff;
+}
+#info1
+{
+	width : 50%;
+}
+#infobutton
+{
+	width : 20%;
+}
+#info2
+{
+	width : 70%;
+}
+#info3
+{
+	width : 70%;
+	height : 70%;
+}
+#dash11 
+{
+	margin : 0px auto;
+	background-color: grey;
+}
+.font8
+{
+	font-family: fantasy;
+}
+#lastdash
+{
+	display : flex;
+}
+.otherinfo
+{
+	width : 100%;
+	font-family: cursive;
+}
+.otherinfo > a
+{
+	color : pink;
+}
+#otherinfo2
+{
+	width : 20%;
+}
+.otherinfo
+{
+	height : 200px;
+	width : 90%;
+	padding : 10px;
+	overflow: hidden;
+	overflow-y: scroll;
+}
+#dash6
+{
+	height : 200px;
+	width : 40%;
+	padding : 10px;
+	overflow: hidden;
+	overflow-y: scroll;
+}
